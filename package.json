@@ -26,8 +26,9 @@
     "karma": "^0.12.24",
     "karma-chai": "^0.1.0",
     "karma-mocha": "^0.1.9",
-    "karma-phantomjs-launcher": "^0.1.4",
-    "mocha": "^2.0.1"
+    "karma-phantomjs-launcher": "^1.0.0",
+    "mocha": "^2.0.1",
+    "phantomjs-prebuilt": "^2.1.7"
   },
   "scripts": {
     "test": "grunt test"
