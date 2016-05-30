@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/priotas/angular-utf8-base64.svg?branch=master)](https://travis-ci.org/priotas/angular-utf8-base64)
+
 # angular-utf8-base64
 
 AngularJS service for UTF-8 and Base64 and Base64url Javascript Encoding
