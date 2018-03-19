@@ -1,5 +1,5 @@
 {
-  "name": "angular-utf8-base64",
+  "name": "@priotas/angular-utf8-base64",
   "version": "0.0.5",
   "author": "stranger82",
   "description": "Base64 encoding/decoding with UTF8 support for AngularJS Apps",
